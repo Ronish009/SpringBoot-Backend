@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-BackEnd
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ronish.shandilya
+Implementation-Vendor-Id: com.ron
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBoot-
+ BackEnd
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
